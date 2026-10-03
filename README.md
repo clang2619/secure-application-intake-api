@@ -12,3 +12,6 @@ A lightweight RESTful service demonstrating secure API design, automated test su
 1. **Install dependencies:**
    ```bash
    pip install -r requirements.txt# secure-application-intake-api
+
+### 🤖 AI Collaboration Disclaimer
+This project was developed as a hands-on learning lab exploring front-end web architecture and vanilla development. Code snippets, boilerplate scaffolding, and architectural patterns were generated in collaboration with Gemini (Google AI) acting as an interactive technical mentor. All implementations, file structures, debugging, and styling integrations were manually reviewed, tested, and assembled by me to master underlying web fundamentals.
